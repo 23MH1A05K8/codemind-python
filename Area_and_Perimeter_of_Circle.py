@@ -1,0 +1,5 @@
+a=int(input())
+b=float(3.14*a*a)
+c=float(2*3.14*a)
+print('{:.2f}'.format(b))
+print('{:.2f}'.format(c))
